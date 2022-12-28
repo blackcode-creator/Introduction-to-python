@@ -1,2 +1,2 @@
-# Python_Quick_Review
-Here is the Quick review on python before the starting the book Data analysis from Scratch using Python
+# introduction to python 
+Python is used successfully in thousands of real-world business applications around the world, including many large and mission critical systems.

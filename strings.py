@@ -31,8 +31,13 @@ print(course[-1])
 print(course[0:3])
 # it will print course
 print(course[7:13])
+<<<<<<< HEAD
 # Here it will print the entire after the start point of index
 print(course[7:])
 # Quiz what i will be displayed
 name = "Jennifer"
 print(name[1:-1])
+=======
+
+#
+>>>>>>> origin/main
